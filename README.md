@@ -1,6 +1,8 @@
 # ramirofassetta
 
 <h1 align="center">Hi 👋, I'm Ramiro</h1>
+<h3 align="center">🚀 Full Stack Developer</h3>
+<h3 align="center">💻 from  Mar del Plata, Argentina  to 🌎</h3>
 <h3 align="center">A passionate frontend developer from Córdoba, Argentina.</h3>
 
 - 🌱 I’m currently learning **React Native and TypeScript**
