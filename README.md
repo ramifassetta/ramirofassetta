@@ -4,6 +4,8 @@
 <h3 align="center">🚀 Full Stack Developer</h3>
 <h3 align="center">💻 from Córdoba, Argentina  to 🌎</h3>
 
+- 🙋🏻‍♂️ I regard myself as a results-oriented person, who is always seeking knowledge and challenging professional experiences.
+
 - 🌱 I’m currently learning **React Native and TypeScript**
 
 - 📫 How to reach me **ramiro.fassetta.01@gmail.com**
